@@ -3,9 +3,3 @@ cadabra abra
 first commit
 -------------------
 
-second commit
-cadabra abra
-abra cadabra
-
-cadabra abra
-abra cadabra
